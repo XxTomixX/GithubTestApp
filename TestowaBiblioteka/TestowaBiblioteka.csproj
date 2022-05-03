@@ -6,7 +6,6 @@
     <Version>1.0.0</Version>
     <Authors>Tomasz Gąsior</Authors>
     <Company>Firma</Company>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>

@@ -1,7 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+ <PropertyGroup>
+    <TargetFramework>netstandard3.1</TargetFramework>
+    <PackageId>Math_Lib</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Tomasz Gąsior</Authors>
+    <Company>Firma</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
